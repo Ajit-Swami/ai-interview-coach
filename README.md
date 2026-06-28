@@ -105,26 +105,10 @@ ai-interview-coach/
 
 ## 👨‍💻 Author
 **Ajit Swami** - Gen AI Intern
-GitHub: https://github.com/YOUR_USERNAME
 
 ---
 
-## 📄 License
-Open source under MIT License
 
----
-⭐ If you like this project give it a Star!
-```
 
----
-
-## How to Update on GitHub
-
-1. Go to your repo
-2. Click **README.md**
-3. Click ✏️ edit button
-4. Delete everything
-5. Paste above content
-6. Click **Commit changes**
 
 ✅ Done! 😄
