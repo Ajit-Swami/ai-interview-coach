@@ -50,7 +50,7 @@ User (Browser) → AWS EC2 Flask App → Amazon Bedrock → Nova Lite AI → Res
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-interview-coach.git
+git clone https://github.com/Ajit-Swami/ai-interview-coach.git
 cd ai-interview-coach
 ```
 
