@@ -3,11 +3,6 @@
 
 > AI-powered Interview Coach built on AWS EC2 using Python Flask and Amazon Bedrock.
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Flask](https://img.shields.io/badge/Flask-Web%20Framework-lightgrey)
-![AWS](https://img.shields.io/badge/AWS-EC2-orange)
-![Bedrock](https://img.shields.io/badge/Amazon-Bedrock-yellow)
-
 ---
 
 ## 💡 What It Does
